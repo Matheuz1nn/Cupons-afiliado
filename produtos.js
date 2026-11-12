@@ -38,7 +38,7 @@ const PRODUTOS = [
         loja: "Amazon",
         categoria: "perifericos",
         descricao: "Monitor gamer Alienware de 25 polegadas com taxa de atualização de 320Hz.",
-        imagem: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/941806/xlarge/Monitor-Gamer-Alienware-25-320Hz-Aw2525hm_1793381610.jpg",
+        imagem: "imagens/monitor.jpg",
         emoji: "🖥️",
         cupom: "",
         link: "https://link.amazon/B0ff4hmrD"
