@@ -27,7 +27,7 @@ const PRODUTOS = [
         loja: "Mercado Livre",
         categoria: "outros",
         descricao: "Suporte articulado para TV.",
-        imagem: "",
+        imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_605527-MLA109741353747_032026-F.webp",
         emoji: "📺",
         cupom: "",
         link: "https://meli.la/11AUqqv"
