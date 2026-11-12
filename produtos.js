@@ -45,47 +45,47 @@ const PRODUTOS = [
     },
     {
         nome: "Controlador sem fio Zelda para Nintendo Switch Hori Pad Grey",
-        preco: "R$ 252,00",
+        preco: "R$ 287,00",
         loja: "Mercado Livre",
         categoria: "perifericos",
         descricao: "Controle sem fio com estampa Zelda.",
-        imagem: "",
+        imagem: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/713TjiWYiPL._AC_SL1500_.jpg",
         emoji: "🕹️",
         cupom: "",
-        link: "https://meli.la/1AMHEZs"
+        link: "https://link.amazon/B0htWKI9L"
     },
     {
         nome: "Processador AMD Ryzen 7 5700X 3.4GHz 8 núcleos AM4",
-        preco: "R$ 1.026,00",
+        preco: "R$ 979,00",
         loja: "Amazon",
         categoria: "hardware",
         descricao: "Processador AMD Ryzen 7 com 8 núcleos e 16 threads.",
-        imagem: "",
+        imagem: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/51gRv8z+K6L._AC_SL1500_.jpg",
         emoji: "⚙️",
         cupom: "",
-        link: ""
+        link: "https://link.amazon/B011yRI53"
     },
     {
-        nome: "Cooler de ar para CPU 6 heatpipes 120mm",
-        preco: "R$ 264,00",
+        nome: "Air Cooler GamerStorm X Redragon AK400 RD",
+        preco: "R$ 140,00",
         loja: "Amazon",
         categoria: "hardware",
         descricao: "Cooler de ar de alto desempenho para processador.",
-        imagem: "",
+        imagem: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71mOg2z50mL._AC_SL1500_.jpg",
         emoji: "❄️",
         cupom: "",
-        link: ""
+        link: "https://link.amazon/B0aU86X2v"
     },
     {
-        nome: "SSD NVMe Crucial P510 1TB PCIe Gen5",
-        preco: "R$ 1.328,00",
+        nome: "SSD Kingston NV3 1TB",
+        preco: "R$ 1.004,75",
         loja: "Amazon",
         categoria: "hardware",
-        descricao: "SSD com até 11.000 MB/s de leitura.",
-        imagem: "",
+        descricao: "SSD com até 6.000 MB/s de leitura.",
+        imagem: "https://images.kabum.com.br/produtos/fotos/621162/ssd-pcie-kingston-nv3-1-tb-m-2-2280-nvme-leitura-6000-mb-s-e-gravacao-4000-mb-s-snv3s-1000g_1726082184_gg.jpg",
         emoji: "💾",
         cupom: "",
-        link: ""
+        link: "https://link.amazon/B0i9MvDgj"
     },
     {
         nome: "Controle sem fio PlayStation DualSense",
@@ -93,9 +93,9 @@ const PRODUTOS = [
         loja: "Amazon",
         categoria: "perifericos",
         descricao: "Controle DualSense sem fio para PS5.",
-        imagem: "",
+        imagem: "https://images.kabum.com.br/produtos/fotos/1032834/controle-sem-fio-sony-dualsense-playstation-5-bluetooth-branco-3005767_1780666036_gg.jpg",
         emoji: "🎮",
         cupom: "",
-        link: ""
+        link: "https://link.amazon/B00yXkVt4"
     }
 ];
