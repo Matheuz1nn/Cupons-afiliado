@@ -66,15 +66,15 @@ const PRODUTOS = [
         link: "https://link.amazon/B011yRI53"
     },
     {
-        nome: "Air Cooler GamerStorm X Redragon AK400 RD",
-        preco: "R$ 140,00",
+        nome: "Logitech G502 X PLUS LIGHTSPEED",
+        preco: "R$ 699",
         loja: "Amazon",
-        categoria: "hardware",
-        descricao: "Cooler de ar de alto desempenho para processador.",
-        imagem: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71mOg2z50mL._AC_SL1500_.jpg",
-        emoji: "❄️",
+        categoria: "perifericos",
+        descricao: "Mouse Gamer Sem fio Logitech G G502 X PLUS.",
+        imagem: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/617m54J4LbL._AC_SL1500_.jpg",
+        emoji: "🎮",
         cupom: "",
-        link: "https://link.amazon/B0aU86X2v"
+        link: "https://link.amazon/B0hhKP6eH"
     },
     {
         nome: "SSD Kingston NV3 1TB",
